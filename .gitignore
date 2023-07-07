@@ -1,0 +1,15 @@
+.idea
+.vscode
+lib/confs/
+src/cache/
+src/config/
+src/log/
+web/dist/
+src/vendor
+apidoc
+logInsatall.log
+.phpunit.result.cache
+coverage/
+src/plugins/orangehrmFunctionalTestingPlugin
+.php-cs-fixer.cache
+.php-cs-fixer.php
